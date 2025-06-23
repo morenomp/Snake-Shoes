@@ -21,10 +21,12 @@
 # 👀 **Ver proyecto**
 🢆 🢆 **Clic** 🢇 🢇  
 <a href="https://snakeshoes.netlify.app/"><img src="./IMG/Wireframe final.png" alt="Wireframe de Snake Shoes" /></a>
+_Wireframe de la página web_
 
 ---
 
 <a href="https://snakeshoes.netlify.app/"><img src="./IMG/Snake Shoes Gold Edition.jpg" alt="Portada/edit de Snake Shoes" /></a>
+_Edit/Portada de Snake Shoes_
 
 ---
 
