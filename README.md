@@ -32,7 +32,7 @@ _Edit/Portada de Snake Shoes_
 
 ## 📫 Contacta conmigo
 
-- 🌐 Web: [mmorenop.netlify.app](https://mmorenop.netlify.app/)
+- 🌐 Web: [morenomp.com](https://www.morenomp.com/)
 - 💼 LinkedIn: [Marc Moreno Pineda](https://es.linkedin.com/in/marc-moreno-pineda)
 - 🎥 YouTube: [@mmoreno-2004](https://www.youtube.com/@mmoreno-2004)
 - 📧 Correo electrónico: morenomp2004@gmail.com
